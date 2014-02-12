@@ -141,6 +141,8 @@ CSS Shapesを使うと、要素の外側や内側にあるテキストを、円�
 - **polygon()**：多角形
 - **url()**：アルファチャンネルを持ったPNG、SVGを使える
 
+※ なんか名前変わるようで… [New CSS Shapes Syntax](http://blogs.adobe.com/webplatform/2014/02/11/new-css-shapes-syntax/)
+
 ---
 
 ### polygon()を使って六角形を作る
